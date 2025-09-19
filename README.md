@@ -1,4 +1,4 @@
-# DexPal Dashboard
+# DexPal Traders
 
 A comprehensive React dashboard for DexPal - the first universal rewards program and discovery tool for leveraged trading on DEXs.
 
